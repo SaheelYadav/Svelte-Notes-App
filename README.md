@@ -1,6 +1,10 @@
 # Notes App
 
 A modern, responsive notes application built with Svelte and TailwindCSS that allows users to create, read, update, and delete notes.
+## 🔗 Live Demo
+
+Check out the deployed app here:  
+👉 [[https://your-deployment-url.com](https://svelte-notes-app.onrender.com)
 
 ## Features
 
