@@ -19,8 +19,9 @@ A modern, responsive notes application built with Svelte and TailwindCSS that al
 
 1. Clone the repository:
 bash
-git clone <repository-url>
-cd notes-app
+git clone https://github.com/SaheelYadav/Svelte-Notes-App.git
+cd Svelte-Notes-App
+
 
 
 2. Install dependencies:
@@ -101,4 +102,4 @@ Given more time, I would:
 
 ## Contributing
 
-Feel free to submit issues and enhancement requests!
+Pull requests and suggestions are welcome! Feel free to open an issue to discuss potential changes or enhancements.
